@@ -1,13 +1,10 @@
 {
-    "name":"Kings",
+    "name":"Wedding",
     "widgetVersion": 2,
-    "thumbnail":"kings.png",
+    "thumbnail":"wedding.png",
     "templateType":"standard",
     "pageTypes": [ "home", "slideshow" ],
-    "screenshot":"kings-screenshot.jpg",
-     "images":[
-        "images/feature-image.jpg"
-    ],
+    "screenshot":"wedding-screenshot.jpg",
     "colorSwatches":
     {
         "Swatch 1": {
